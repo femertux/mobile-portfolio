@@ -90,7 +90,7 @@ Trabaje en el desarrollo y mantenimiento de la aplicación Android para clientes
 
 
 ## Own. – Connect, Create, Trend
-Aplicacion desarrollada en lenguaje Swift y SwiftUI para la creación de interfaz de usuario nativa. Se implementaron funcionalidades como subscripciones mediante IAP, configuracion remota, almacenamiento local, conexion Bluetooth entre dispositivos y notificaciones.
+Aplicación desarrollada en lenguaje Swift y SwiftUI para la creación de interfaz de usuario nativa. Se implementaron funcionalidades como subscripciones mediante IAP, configuración remota, almacenamiento local, conexión Bluetooth entre dispositivos y notificaciones.
 
 
 <p align="center">
