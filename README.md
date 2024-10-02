@@ -6,7 +6,7 @@
 
 
 ## Aventon
-Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y conductores para ambos sistemas (Android/iOS). Usando lenguaje Koltin y Swift se implementaron funcionalidades como visualización de conductores cercanos, la reserva y pago del servicio, además del seguimiento, comunicación vía chat y valoración del servicio.
+Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y conductores para ambos sistemas (Android/iOS). Usando lenguaje Kotlin y Swift se implementaron funcionalidades como visualización de conductores cercanos, la reserva y pago del servicio, además del seguimiento, comunicación vía chat y valoración del servicio.
 
 
 <p align="center">
@@ -18,9 +18,10 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 **Technologies**
-- 💾 Room
+- 💾 Realm
 - 🔥 Firebase
 - 🗺️ Google Maps
+- 🏛️ MVVM
 - 📐 UIKit
 - 🏎️ Swift
 - 🤖 Kotlin
@@ -28,3 +29,31 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 <a href="https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815" target="_blank"><img width="144" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
 <a href="https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech" target="_blank"><img width="150" alt="Download on Google Play" src="https://github.com/pioug/google-play-badges/blob/main/svg/en.svg"/></a>
+
+
+## Vive Health
+Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y profesionales de la salud en ambos sistemas (Android/iOS). Usando lenguaje Kotlin y Swift se implementaron funcionalidades como búsqueda de especialista, visualización de disponibilidad y reserva de la consulta. Se implementó la funcionalidad de videollamada para la teleconsulta y generación de la ficha clínica.
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5024a6e1-6a24-4ebd-be2c-5", width="230"/>
+<img src="https://github.com/user-attachments/assets/67a26956-4dac-4b34-aaba-d3ba863f23d3)
+8938206565e", width="230"/>
+<img src="https://github.com/user-attachments/assets/a75b8537-5d93-4aad-843d-1cf8aeda898c", width="230"/>
+<img src="https://github.com/user-attachments/assets/8be999ef-4504-43d4-8a06-2b39bc87c966", width="230"/>
+</p>
+
+
+**Technologies**
+- 💾 Room
+- 🔥 Firebase
+- 📲 Twilio
+- 🏛️ MVVM
+- 💉 Hilt
+- 📐 UIKit
+- 🏎️ Swift
+- 🤖 Kotlin
+
+
+<a href="https://apps.apple.com/pe/app/vive-health/id1556795740" target="_blank"><img width="144" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
+<a href="https://play.google.com/store/apps/details?id=patients.com.smartdoctor" target="_blank"><img width="150" alt="Download on Google Play" src="https://github.com/pioug/google-play-badges/blob/main/svg/en.svg"/></a>
