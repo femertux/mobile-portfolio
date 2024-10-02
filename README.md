@@ -37,7 +37,7 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y pro
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5024a6e1-6a24-4ebd-be2c-58938206565e", width="230"/>
-<img src="https://github.com/user-attachments/assets/70b3aef6-cb33-4e1b-952b-3189b2cda5cc, width="230"/>
+<img src="https://github.com/user-attachments/assets/70b3aef6-cb33-4e1b-952b-3189b2cda5cc", width="230"/>
 <img src="https://github.com/user-attachments/assets/a75b8537-5d93-4aad-843d-1cf8aeda898c", width="230"/>
 <img src="https://github.com/user-attachments/assets/8be999ef-4504-43d4-8a06-2b39bc87c966", width="230"/>
 </p>
