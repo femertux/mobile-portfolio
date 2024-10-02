@@ -25,6 +25,7 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 - 📐 UIKit
 - 🏎️ Swift
 - 🤖 Kotlin
+- 🔔 UserNotifications
 
 
 <a href="https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815" target="_blank"><img width="144" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
@@ -54,6 +55,7 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y pro
 - 📐 UIKit
 - 🏎️ Swift
 - 🤖 Kotlin
+- 🔔 UserNotifications
 
 
 <a href="https://apps.apple.com/pe/app/vive-health/id1556795740" target="_blank"><img width="144" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
@@ -62,7 +64,7 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y pro
 
 
 ## Bi Banking
-Trabaje en el desarrollo y mantenimiento de las aplicacion android para clientes empresariales de Banco Industrial. Usando lenguaje Kotlin y la herramienta Compose para la creacion de interfaz de usuario nativa se implementaron funcionalidades para manejo de cuentas, pagos y transferencias siguiendo estandares de seguridad propias de una aplicacion de banca.
+Trabaje en el desarrollo y mantenimiento de la aplicación Android para clientes empresariales de Banco Industrial. Usando lenguaje Kotlin y la herramienta Compose para la creación de interfaz de usuario nativa. Se implementaron funcionalidades para manejo de cuentas, pagos y transferencias siguiendo estándares de seguridad propia de una aplicación de banca.
 
 
 <p align="center">
@@ -77,9 +79,33 @@ Trabaje en el desarrollo y mantenimiento de las aplicacion android para clientes
 - 🔥 Firebase
 - 🏛️ MVVM
 - 💉 Hilt
-- 📐 Compose
+- 🎨 Compose
 - 🤖 Kotlin
+- 🔔 UserNotifications
 - 🔒 Themis
 
 
 <a href="https://play.google.com/store/apps/details?id=gt.com.bi.bibanking" target="_blank"><img width="150" alt="Download on Google Play" src="https://github.com/pioug/google-play-badges/blob/main/svg/en.svg"/></a>
+
+
+
+## Own. – Connect, Create, Trend
+Aplicacion desarrollada en lenguaje Swift y SwiftUI para la creación de interfaz de usuario nativa. Se implementaron funcionalidades como subscripciones mediante IAP, configuracion remota, almacenamiento local, conexion Bluetooth entre dispositivos y notificaciones.
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9d4a23fd-a612-4d77-8ee9-c5b4ad563cc9", width="230"/>
+</p>
+
+
+**Tecnologías**
+- 💾 SQLite
+- 🔥 Firebase
+- 🎨 SwiftUI
+- 🏎️ Swift
+- 🧵 async/await
+- 🔔 UserNotifications
+- 💰 IAP
+
+
+<a href="https://apps.apple.com/us/app/own-connect-create-trend/id6470322906" target="_blank"><img width="144" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
