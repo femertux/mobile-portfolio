@@ -1,4 +1,4 @@
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*e3jNfHQGTe7f7ptGpa74yA.png)
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/d4a3608d-31f8-4cd5-8c49-ac69c51e3a87)
        
  
 ### 👋 Apasionado por las TIC. Soy una persona autodidacta y proactivo, que está en constante actualización sobre las ultimas tecnologías, especialmente en el mundo móvil.
