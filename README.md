@@ -28,8 +28,8 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 - 🔔 UserNotifications
 
 
-<a href="https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815" target="_blank"><img width="144" alt="Download on the App Store" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech" target="_blank"><img width="150" alt="Download on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+<a href="https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 
 
 
@@ -58,8 +58,8 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y pro
 - 🔔 UserNotifications
 
 
-<a href="https://apps.apple.com/pe/app/vive-health/id1556795740" target="_blank"><img width="144" alt="Download on the App Store" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=patients.com.smartdoctor" target="_blank"><img width="150" alt="Download on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+<a href="https://apps.apple.com/pe/app/vive-health/id1556795740" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=patients.com.smartdoctor" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 
 
 
@@ -85,7 +85,7 @@ Trabaje en el desarrollo y mantenimiento de la aplicación Android para clientes
 - 🔒 Themis
 
 
-<a href="https://play.google.com/store/apps/details?id=gt.com.bi.bibanking" target="_blank"><img width="150" alt="Download on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=gt.com.bi.bibanking" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 
 
 
@@ -108,4 +108,4 @@ Aplicación desarrollada en lenguaje Swift y SwiftUI para la creación de interf
 - 💰 IAP
 
 
-<a href="https://apps.apple.com/us/app/own-connect-create-trend/id6470322906" target="_blank"><img width="144" alt="Download on the App Store" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/own-connect-create-trend/id6470322906" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
