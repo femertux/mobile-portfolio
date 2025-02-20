@@ -29,7 +29,7 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 <a href="https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815" target="_blank"><img width="144" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
-<a href="https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech" target="_blank"><img width="150" alt="Download on Google Play" src="https://github.com/pioug/google-play-badges/blob/main/svg/en.svg"/></a>
+<a href="https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech" target="_blank"><img width="150" alt="Download on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
 
 
 
