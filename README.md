@@ -33,6 +33,34 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 
+## 13Go
+Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para el canal 13 de Chile. Usando lenguaje Kotlin y Swift se implementaron funcionalidades como listado de señales en vivo, contenido a demanda, reproduccion de contenido multimedia y notificaciones.
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/50f59d84-1d33-48d4-8300-8815dddff563", width="230"/>
+<img src="https://github.com/user-attachments/assets/8d02e34a-d6f8-4b6b-b54d-bb2af00d4e25", width="230"/>
+<img src="https://github.com/user-attachments/assets/7c0c8a8b-2c01-4b96-9e06-7e2ec7999e54", width="230"/>
+</p>
+
+
+**Tecnologías**
+- 💾 Room
+- 🔥 Firebase
+- 🏛️ MVVM
+- 💉 Hilt
+- 🎨 Compose
+- 🎨 SwiftUI
+- 🤖 Kotlin
+- 🏎️ Swift
+- 🔔 UserNotifications
+
+
+<a href="https://apps.apple.com/cl/app/13-go/id1588315900" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.digitalproserver.rudoplaylist.c13e" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+
+
+
 ## Vive Health
 Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y profesionales de la salud en ambos sistemas (Android/iOS). Usando lenguaje Kotlin y Swift se implementaron funcionalidades como búsqueda de especialista, visualización de disponibilidad y reserva de la consulta. Se implementó la funcionalidad de videollamada para la teleconsulta y generación de la ficha clínica.
 
