@@ -34,16 +34,16 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 ## 13Go
-Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para el canal 13 de Chile. Usando lenguaje Kotlin y Swift se implementaron funcionalidades como listado de señales en vivo, contenido a demanda, reproduccion de contenido multimedia y notificaciones.
+Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para el canal 13 de Chile. Usando lenguaje Kotlin y Swift se implementaron funcionalidades como listado de señales en vivo, contenido a demanda, reproducción de contenido multimedia y notificaciones.
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8af56f54-e7b1-4681-90fd-9a71ec03b6a3", width="230"/>
-<img src="https://github.com/user-attachments/assets/721a2f3f-e043-4fe4-a304-b84a87bce0ed", width="230"/>
-<img src="https://github.com/user-attachments/assets/64251ab2-e393-4c74-a484-e534638b4ba3", width="230"/>
-<img src="https://github.com/user-attachments/assets/12fcb1b7-c6ea-4440-a932-43b1824edc24", width="230"/>
-<img src="https://github.com/user-attachments/assets/a1453580-1840-474a-8493-64a2ea4691ce", width="230"/>
-<img src="https://github.com/user-attachments/assets/68c348d5-9054-49fd-98ea-ac4eb4513040", width="230"/>
+<img src="https://github.com/user-attachments/assets/0cda0790-fd34-43e0-9f85-66e4fa657acb", width="230"/>
+<img src="https://github.com/user-attachments/assets/96906307-272f-402a-b528-a90ebe54a934", width="230"/>
+<img src="https://github.com/user-attachments/assets/8c8c8578-ea54-4d8d-978a-858f11ea98d6", width="230"/>
+<img src="https://github.com/user-attachments/assets/985a91b5-f20f-4445-a307-e92c96f2ec54", width="230"/>
+<img src="https://github.com/user-attachments/assets/247a734e-0701-4d56-8bda-d7f3d418c305", width="230"/>
+<img src="https://github.com/user-attachments/assets/061f8906-1614-4928-8619-b94dcd78f5da", width="230"/>
 </p>
 
 
