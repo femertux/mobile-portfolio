@@ -10,10 +10,10 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/df6c9eee-3169-487b-a1f1-7433cd98058d", width="230"/>
-<img src="https://github.com/user-attachments/assets/96e7b3b5-2086-4863-aef0-6f36c378d322", width="230"/>
-<img src="https://github.com/user-attachments/assets/8553b2f4-d797-40ff-b139-1c49a4b6acc2", width="230"/>
-<img src="https://github.com/user-attachments/assets/7048266d-4b29-4061-9115-50ce96b76078", width="230"/>
+<img src="./assets/aventon/aventon-01.jpg" width="230"/>
+<img src="./assets/aventon/aventon-02.jpeg" width="230"/>
+<img src="./assets/aventon/aventon-03.jpeg" width="230"/>
+<img src="./assets/aventon/aventon-04.jpeg" width="230"/>
 </p>
 
 
