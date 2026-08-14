@@ -33,6 +33,46 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 
+## MiCHV
+
+Trabajé en el desarrollo y mantenimiento de las aplicaciones móviles y TV de Chilevisión para Android, iOS, Android TV y tvOS. Usando Kotlin y Swift se implementaron funcionalidades como reproducción de señales en vivo, contenido a demanda (VOD), reproducción multimedia, navegación adaptada para TV, notificaciones y acceso mediante deep links.
+
+También se trabajó en funcionalidades relacionadas con reproducción de video mediante Media3/ExoPlayer y AVPlayer, integración de publicidad con IMA Ads, Google Cast, Picture in Picture, selección de calidad de video y analíticas.
+
+<p align="center">
+  <img src="./assets/michv/michv-01.png" width="230"/>
+  <img src="./assets/michv/michv-02.png" width="230"/>
+  <img src="./assets/michv/michv-03.png" width="230"/>
+  <img src="./assets/michv/michv-04.png" width="230"/>
+  <img src="./assets/michv/michv-05.png" width="230"/>
+  <img src="./assets/michv/michv-06.png" width="230"/>
+</p>
+
+Tecnologías
+
+* 🎬 Media3 / ExoPlayer
+* ▶️ AVPlayer
+* 📺 Android TV
+* 🍎 tvOS
+* 📢 IMA Ads
+* 📡 Google Cast
+* 🔥 Firebase
+* 🏛️ MVVM
+* 💉 Hilt
+* 🎨 Jetpack Compose
+* 🎨 SwiftUI
+* 🤖 Kotlin
+* 🏎️ Swift
+* 🔔 UserNotifications
+* 🔗 Deep Links
+* 📊 Analytics
+* 🖼️ Picture in Picture
+
+<a href="https://apps.apple.com/cl/app/13-go/id1588315900" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.digitalproserver.rudoplaylist.c13e" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+
+
+
 ## 13Go
 Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para el canal 13 de Chile. Usando lenguaje Kotlin y Swift se implementaron funcionalidades como listado de señales en vivo, contenido a demanda, reproducción de contenido multimedia y notificaciones.
 
@@ -47,6 +87,9 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para e
 
 
 **Tecnologías**
+- 🎬 Media3 / ExoPlayer
+- ▶️ AVPlayer
+- 📺 Android TV
 - 💾 Room
 - 🔥 Firebase
 - 🏛️ MVVM
