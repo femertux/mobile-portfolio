@@ -68,8 +68,8 @@ Tecnologías
 * 📊 Analytics
 * 🖼️ Picture in Picture
 
-<a href="https://apps.apple.com/cl/app/13-go/id1588315900" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.digitalproserver.rudoplaylist.c13e" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+<a href="https://apps.apple.com/cl/app/michv/id6479047173" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.mdstrm.michv" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 
 
 
