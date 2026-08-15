@@ -10,7 +10,7 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y con
 
 
 <p align="center">
-<img src="/mobile-portfolio/assets/aventon/aventon-01.jpg" width="230"/>
+<img src="./assets/aventon/aventon-01.jpg" width="230"/>
 <img src="./assets/aventon/aventon-02.jpeg" width="230"/>
 <img src="./assets/aventon/aventon-03.jpeg" width="230"/>
 <img src="./assets/aventon/aventon-04.jpeg" width="230"/>
