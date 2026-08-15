@@ -78,11 +78,11 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para e
 
 
 <p align="center">
-<img src="./assets/13GO/13go-01.jpeg" width="230"/>
-<img src="./assets/13GO/13go-02.jpeg" width="230"/>
-<img src="./assets/13GO/13go-03.jpeg" width="230"/>
-<img src="./assets/13GO/13go-04.jpeg" width="230"/>
-<img src="./assets/13GO/13go-05.jpeg" width="230"/>
+<img src="./assets/13go/13go-01.jpeg" width="230"/>
+<img src="./assets/13go/13go-02.jpeg" width="230"/>
+<img src="./assets/13go/13go-03.jpeg" width="230"/>
+<img src="./assets/13go/13go-04.jpeg" width="230"/>
+<img src="./assets/13go/13go-05.jpeg" width="230"/>
 </p>
 
 
