@@ -78,11 +78,11 @@ Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para e
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0cda0790-fd34-43e0-9f85-66e4fa657acb", width="230"/>
-<img src="https://github.com/user-attachments/assets/96906307-272f-402a-b528-a90ebe54a934", width="230"/>
-<img src="https://github.com/user-attachments/assets/8c8c8578-ea54-4d8d-978a-858f11ea98d6", width="230"/>
-<img src="https://github.com/user-attachments/assets/247a734e-0701-4d56-8bda-d7f3d418c305", width="230"/>
-<img src="https://github.com/user-attachments/assets/061f8906-1614-4928-8619-b94dcd78f5da", width="230"/>
+<img src="./assets/13GO/13go-01.jpeg" width="230"/>
+<img src="./assets/13GO/13go-02.jpeg" width="230"/>
+<img src="./assets/13GO/13go-03.jpeg" width="230"/>
+<img src="./assets/13GO/13go-04.jpeg" width="230"/>
+<img src="./assets/13GO/13go-05.jpeg" width="230"/>
 </p>
 
 
