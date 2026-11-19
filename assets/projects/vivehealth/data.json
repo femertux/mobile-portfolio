@@ -1,0 +1,64 @@
+{
+  "id": "vivehealth",
+  "name": "Vive Health",
+  "image": "vive.webp",
+  "description": [
+    "Trabajé en el desarrollo y mantenimiento de las aplicaciones para pacientes y profesionales de la salud en Android e iOS. Utilizando Kotlin y Swift, se implementaron funcionalidades como búsqueda de especialistas, consulta de disponibilidad y reserva de citas. También se integraron videollamadas para teleconsultas y generación de fichas clínicas."
+  ],
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "technologies": [
+    "Room",
+    "Firebase",
+    "Twilio",
+    "Stripe",
+    "MVVM",
+    "Hilt",
+    "UIKit",
+    "Swift",
+    "Kotlin",
+    "UserNotifications"
+  ],
+  "stores": [
+    {
+      "type": "google-play",
+      "label": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=patients.com.smartdoctor"
+    },
+    {
+      "type": "app-store",
+      "label": "App Store",
+      "url": "https://apps.apple.com/pe/app/vive-health/id1556795740"
+    }
+  ],
+  "galleries": {
+    "mobile": [
+      {
+        "src": "mobile/1.jpeg",
+        "alt": "Vive Health — captura móvil 1",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/2.jpeg",
+        "alt": "Vive Health — captura móvil 2",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/3.jpeg",
+        "alt": "Vive Health — captura móvil 3",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/4.jpeg",
+        "alt": "Vive Health — captura móvil 4",
+        "width": 810,
+        "height": 1440
+      }
+    ]
+  }
+}

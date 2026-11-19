@@ -1,0 +1,49 @@
+{
+  "id": "bibanking",
+  "name": "Bi Banking",
+  "image": "bibanking.webp",
+  "description": [
+    "Trabajé en el desarrollo y mantenimiento de la aplicación Android para clientes empresariales de Banco Industrial. Utilizando Kotlin y Jetpack Compose para la creación de interfaces nativas, se implementaron funcionalidades para la gestión de cuentas, pagos y transferencias, siguiendo los estándares de seguridad propios de una aplicación bancaria."
+  ],
+  "platforms": [
+    "Android"
+  ],
+  "technologies": [
+    "Room",
+    "Firebase",
+    "MVVM",
+    "Hilt",
+    "Jetpack Compose",
+    "Kotlin",
+    "Themis"
+  ],
+  "stores": [
+    {
+      "type": "google-play",
+      "label": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=gt.com.bi.bibanking"
+    }
+  ],
+  "galleries": {
+    "mobile": [
+      {
+        "src": "mobile/1.jpeg",
+        "alt": "Bi Banking — captura móvil 1",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/2.jpeg",
+        "alt": "Bi Banking — captura móvil 2",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/3.jpeg",
+        "alt": "Bi Banking — captura móvil 3",
+        "width": 810,
+        "height": 1440
+      }
+    ]
+  }
+}

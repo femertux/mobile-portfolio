@@ -1,184 +1,100 @@
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/d4a3608d-31f8-4cd5-8c49-ac69c51e3a87)
-       
- 
-### 👋 Apasionado por las TIC. Soy una persona autodidacta y proactivo, que está en constante actualización sobre las ultimas tecnologías, especialmente en el mundo móvil.
+# Portafolio de Julio García Carballo
 
+Portafolio Bento estático con páginas reutilizables de detalle y seis secciones en el Home: perfil, plataformas, herramientas, proyectos, formación y contacto. HTML, CSS, JavaScript nativo y `data.json`; sin instalación ni compilación.
 
+## Revisar localmente
 
-## Aventon
-Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y conductores para ambos sistemas (Android/iOS). Usando lenguaje Kotlin y Swift se implementaron funcionalidades como visualización de conductores cercanos, la reserva y pago del servicio, además del seguimiento, comunicación vía chat y valoración del servicio.
+Desde la carpeta del proyecto:
 
+```sh
+python3 -m http.server 8000
+```
 
-<p align="center">
-<img src="./assets/aventon/aventon-01.jpg" width="230"/>
-<img src="./assets/aventon/aventon-02.jpeg" width="230"/>
-<img src="./assets/aventon/aventon-03.jpeg" width="230"/>
-<img src="./assets/aventon/aventon-04.jpeg" width="230"/>
-</p>
+Abrir http://localhost:8000 y detener con Ctrl+C. Servir por HTTP; no abrir `index.html` con `file://`, porque el contenido se carga con `fetch`.
 
+## Detalles de proyectos
 
-**Tecnologías**
-- 💾 Realm
-- 🔥 Firebase
-- 🗺️ Google Maps
-- 🏛️ MVVM
-- 📐 UIKit
-- 🏎️ Swift
-- 🤖 Kotlin
-- 🔔 UserNotifications
+Todas las tarjetas navegan a `project.html?project=<id>`. MiCHV tiene datos y galerías completos; los demás muestran el estado pendiente hasta agregar su JSON. Consulta [PROJECTS.md](./PROJECTS.md) para el formato de datos, capturas, tiendas y cómo añadir proyectos sin modificar HTML o JavaScript.
 
+## Contenido y recursos
 
-<a href="https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+`data.json` contiene la descripción breve del perfil, cuatro plataformas, el distintivo separado de Kotlin Multiplatform, seis grupos de herramientas, cinco proyectos, formación e idiomas. La trayectoria laboral detallada está en el CV descargable; no se renderiza en la página. Contacto y metadatos están en `index.html`.
 
+La fotografía y el PDF ya están incluidos. El encuadre de la fotografía se conserva mediante CSS, sin modificar el archivo original.
 
+| Recurso | Ruta |
+| --- | --- |
+| Fotografía | `assets/profile/julio-garcia.jpg` |
+| MiCHV | `assets/projects/michv/michv.webp` |
+| Bi Banking | `assets/projects/bi-banking.png` |
+| 13Go | `assets/projects/13go.png` |
+| Aventón | `assets/projects/aventon.png` |
+| Vive Health | `assets/projects/vive-health.png` |
+| CV descargable | `assets/documents/julio-garcia-cv.pdf` |
 
-## MiCHV
+Incorporar las imágenes de proyectos con esos nombres exactos, respetando mayúsculas y minúsculas. Las imágenes aparecen al recargar. Hasta entonces se muestran monogramas decorativos, sin iconos rotos. Se admiten PNG, JPEG, WebP, AVIF y SVG con rutas `./assets/...`; las imágenes de proyectos se muestran completas dentro de su área.
 
-Trabajé en el desarrollo y mantenimiento de las aplicaciones móviles y TV de Chilevisión para Android, iOS, Android TV y tvOS. Usando Kotlin y Swift se implementaron funcionalidades como reproducción de señales en vivo, contenido a demanda (VOD), reproducción multimedia, navegación adaptada para TV, notificaciones y acceso mediante deep links.
+El PDF conserva el aviso de archivo ausente por si se mueve o elimina. La descarga y la fotografía mantienen sus referencias locales.
 
-También se trabajó en funcionalidades relacionadas con reproducción de video mediante Media3/ExoPlayer y AVPlayer, integración de publicidad con IMA Ads, Google Cast, Picture in Picture, selección de calidad de video y analíticas.
+Para agregar enlaces reales a un proyecto, completar su propiedad `links`:
 
-<p align="center">
-  <img src="./assets/michv/michv-01.png" width="230"/>
-  <img src="./assets/michv/michv-02.png" width="230"/>
-  <img src="./assets/michv/michv-03.png" width="230"/>
-  <img src="./assets/michv/michv-04.png" width="230"/>
-  <img src="./assets/michv/michv-05.png" width="230"/>
-  <img src="./assets/michv/michv-06.png" width="230"/>
-</p>
+```json
+"links": [
+  { "label": "App Store", "url": "https://apps.apple.com/..." },
+  { "label": "Google Play", "url": "https://play.google.com/..." }
+]
+```
 
-Tecnologías
+Si `links` está vacío, no se muestran botones inactivos. Usar URLs HTTPS reales.
 
-* 🎬 Media3 / ExoPlayer
-* ▶️ AVPlayer
-* 📺 Android TV
-* 🍎 tvOS
-* 📢 IMA Ads
-* 📡 Google Cast
-* 🔥 Firebase
-* 🏛️ MVVM
-* 💉 Hilt
-* 🎨 Jetpack Compose
-* 🎨 SwiftUI
-* 🤖 Kotlin
-* 🏎️ Swift
-* 🔔 UserNotifications
-* 🔗 Deep Links
-* 📊 Analytics
-* 🖼️ Picture in Picture
+## SVG externos
 
-<a href="https://apps.apple.com/cl/app/michv/id6479047173" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.mdstrm.michv" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+Los iconos de plataformas y tecnologías se cargan como imágenes SVG desde la API pública de [Iconify](https://iconify.design/docs/api/svg.html), sin instalar librerías ni guardar SVG de tecnologías en el proyecto. La fotografía, el favicon y los SVG de contacto y formación conservan su implementación local.
 
+Los mapas `technologyIcons`, `platforms[].icon` y `multiplatform.icon` incluyen URL, identificador de catálogo, tipo de representación y licencia. Solo se aceptan URLs HTTPS de `api.iconify.design` para los conjuntos Simple Icons y Lucide. No se inyecta HTML o SVG remoto en el documento.
 
+| Uso | Colección / identificador | Tipo |
+| --- | --- | --- |
+| Android | `simple-icons:android` | Marca Android |
+| iOS | `simple-icons:apple` | Marca Apple |
+| Android TV | `lucide:tv` | Conceptual: televisión |
+| tvOS | `lucide:tv-minimal` | Conceptual: pantalla |
+| Kotlin Multiplatform | `lucide:layers` | Conceptual: multiplataforma |
+| Kotlin | `simple-icons:kotlin` | Logo |
+| Swift | `simple-icons:swift` | Logo |
+| Compose | `simple-icons:jetpackcompose` | Logo |
+| Firebase | `simple-icons:firebase` | Logo |
+| Google Maps | `simple-icons:googlemaps` | Logo |
+| SwiftUI | `lucide:layout-grid` | Conceptual: interfaces |
+| Media3 | `lucide:film` | Conceptual: multimedia |
+| Hilt | `lucide:git-fork` | Conceptual: dependencias |
+| MVVM | `lucide:workflow` | Conceptual: arquitectura |
+| Twilio | `lucide:messages-square` | Conceptual: comunicación |
+| AVPlayer (preparado para uso futuro) | `lucide:video` | Conceptual: video |
 
-## 13Go
-Trabaje en el desarrollo y mantenimiento de las aplicaciones moviles y TV para el canal 13 de Chile. Usando lenguaje Kotlin y Swift se implementaron funcionalidades como listado de señales en vivo, contenido a demanda, reproducción de contenido multimedia y notificaciones.
+No se presentan los iconos conceptuales como logos oficiales. En proyectos, el tooltip y el nombre accesible identifican la tecnología y el carácter conceptual del icono. Los tooltips se muestran al pasar el cursor y al enfocar con Tab. El color se fija en la URL; las superficies claras de los iconos mantienen su visibilidad en ambos temas sin cambiar los colores de marca.
 
+Si un SVG falla o tarda más de diez segundos, se conserva un placeholder discreto, sin imágenes rotas y sin alterar las dimensiones. El nombre accesible y el tooltip siguen disponibles. No se muestran iniciales como reemplazo de iconos de plataformas.
 
-<p align="center">
-<img src="./assets/13go/13go-01.jpeg" width="230"/>
-<img src="./assets/13go/13go-02.jpeg" width="230"/>
-<img src="./assets/13go/13go-03.jpeg" width="230"/>
-<img src="./assets/13go/13go-04.jpeg" width="230"/>
-<img src="./assets/13go/13go-05.jpeg" width="230"/>
-</p>
+### Fuentes y licencias
 
+- [Simple Icons](https://simpleicons.org/): [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). Los logos y marcas siguen sujetos a los derechos y políticas de sus respectivos titulares.
+- [Lucide](https://lucide.dev/): [ISC](https://lucide.dev/license). Iconos conceptuales, sin asociación con las marcas representadas.
+- [Devicon](https://devicon.dev/) se revisó como alternativa; esta implementación no utiliza sus recursos.
 
-**Tecnologías**
-- 🎬 Media3 / ExoPlayer
-- ▶️ AVPlayer
-- 📺 Android TV
-- 💾 Room
-- 🔥 Firebase
-- 🏛️ MVVM
-- 💉 Hilt
-- 🎨 Compose
-- 🎨 SwiftUI
-- 🤖 Kotlin
-- 🏎️ Swift
-- 🔔 UserNotifications
+Las URLs de catálogo están registradas junto a cada icono. La verificación de existencia en el catálogo no sustituye la comprobación HTTP de cada SVG desde la red de destino.
 
+## Caché y publicación
 
-<a href="https://apps.apple.com/cl/app/13-go/id1588315900" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.digitalproserver.rudoplaylist.c13e" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+Las referencias de CSS, JavaScript (incluido `shared.js`) y JSON usan `20261119-2` para evitar mezclas con archivos antiguos. En futuras actualizaciones, incrementar la versión de CSS y JS en `index.html` y la del JSON en `script.js` y `project.js`. Recargar con Cmd+Shift+R si se mantiene una copia antigua en el navegador.
 
+Las rutas son relativas y compatibles con GitHub Pages en una subcarpeta. No se configuró ni ejecutó el despliegue. Publicar, cuando corresponda, HTML, CSS, JS, JSON y `assets/`; las carpetas vacías pueden no conservarse al subir a Git.
 
+## Validación
 
-## Vive Health
-Trabaje en el desarrollo y mantenimiento de las aplicaciones para clientes y profesionales de la salud en ambos sistemas (Android/iOS). Usando lenguaje Kotlin y Swift se implementaron funcionalidades como búsqueda de especialista, visualización de disponibilidad y reserva de la consulta. Se implementó la funcionalidad de videollamada para la teleconsulta y generación de la ficha clínica.
-
-
-<p align="center">
-<img src="./assets/vive-health/vive-01.jpeg" width="230"/>
-<img src="./assets/vive-health/vive-02.jpeg" width="230"/>
-<img src="./assets/vive-health/vive-03.jpeg" width="230"/>
-<img src="./assets/vive-health/vive-04.jpeg" width="230"/>
-</p>
-
-
-**Tecnologías**
-- 💾 Room
-- 🔥 Firebase
-- 📲 Twilio
-- 💳 Stripe
-- 🏛️ MVVM
-- 💉 Hilt
-- 📐 UIKit
-- 🏎️ Swift
-- 🤖 Kotlin
-- 🔔 UserNotifications
-
-
-<a href="https://apps.apple.com/pe/app/vive-health/id1556795740" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
-<a href="https://play.google.com/store/apps/details?id=patients.com.smartdoctor" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-
-
-
-## Bi Banking
-Trabaje en el desarrollo y mantenimiento de la aplicación Android para clientes empresariales de Banco Industrial. Usando lenguaje Kotlin y la herramienta Compose para la creación de interfaz de usuario nativa. Se implementaron funcionalidades para manejo de cuentas, pagos y transferencias siguiendo estándares de seguridad propia de una aplicación de banca.
-
-
-<p align="center">
-<img src="./assets/bi-banking/bi-01.jpeg" width="230"/>
-<img src="./assets/bi-banking/bi-02.jpeg" width="230"/>
-<img src="./assets/bi-banking/bi-03.jpeg" width="230"/>
-</p>
-
-
-**Tecnologías**
-- 💾 Room
-- 🔥 Firebase
-- 🏛️ MVVM
-- 💉 Hilt
-- 🎨 Compose
-- 🤖 Kotlin
-- 🔔 UserNotifications
-- 🔒 Themis
-
-
-<a href="https://play.google.com/store/apps/details?id=gt.com.bi.bibanking" target="_blank"><img alt="Download on Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-
-
-
-## Own. – Connect, Create, Trend
-Aplicación desarrollada en lenguaje Swift y SwiftUI para la creación de interfaz de usuario nativa. Se implementaron funcionalidades como subscripciones mediante IAP, configuración remota, almacenamiento local, conexión Bluetooth entre dispositivos y notificaciones.
-
-
-<p align="center">
-<img src="./assets/own/own-01.jpeg" width="230"/>
-</p>
-
-
-**Tecnologías**
-- 💾 SQLite
-- 🔥 Firebase
-- 🎨 SwiftUI
-- 🏎️ Swift
-- 🧵 async/await
-- 🔔 UserNotifications
-- 💰 IAP
-
-
-<a href="https://apps.apple.com/us/app/own-connect-create-trend/id6470322906" target="_blank"><img alt="Download on the App Store" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+- Comprobar escritorio, tablet y móvil en ambos temas, incluyendo anchos de 320, 390, 768, 1024 y 1440 px.
+- Verificar que Plataformas mantenga dos columnas y dos filas, y KMP permanezca separado.
+- Probar navegación por teclado, tooltips, foco, movimiento reducido y persistencia del tema.
+- Confirmar las seis secciones, cinco proyectos y todos los grupos de herramientas.
+- Bloquear un SVG: debe mantenerse el nombre accesible y aparecer el fallback sin saltos de tamaño.
+- Bloquear `data.json`, comprobar el aviso y reintentar; confirmar la descarga del CV.

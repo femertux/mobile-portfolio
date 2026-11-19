@@ -1,0 +1,75 @@
+{
+  "id": "13go",
+  "name": "13Go",
+  "description": [
+    "Trabajé en el desarrollo y mantenimiento de las aplicaciones móviles y TV para Canal 13 de Chile. Utilizando Kotlin y Swift, se implementaron funcionalidades como listado de señales en vivo, contenido a demanda (VOD), reproducción multimedia y notificaciones."
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Android TV"
+  ],
+  "technologies": [
+    "Media3 / ExoPlayer",
+    "AVPlayer",
+    "Android TV",
+    "Room",
+    "Firebase",
+    "MVVM",
+    "Hilt",
+    "Jetpack Compose",
+    "SwiftUI",
+    "Kotlin",
+    "Swift",
+    "UserNotifications"
+  ],
+  "image": "13go.webp",
+  "stores": [
+    {
+      "type": "google-play",
+      "label": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalproserver.rudoplaylist.c13e"
+    },
+    {
+      "type": "app-store",
+      "label": "App Store",
+      "url": "https://apps.apple.com/cl/app/13-go/id1588315900"
+    }
+  ],
+  "galleries": {
+    "mobile": [
+      {
+        "src": "mobile/1.jpeg",
+        "alt": "13Go — captura móvil 1",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/2.jpeg",
+        "alt": "13Go — captura móvil 2",
+        "width": 810,
+        "height": 1440
+      },
+      {
+        "src": "mobile/3.jpeg",
+        "alt": "13Go — captura móvil 3",
+        "width": 810,
+        "height": 1440
+      }
+    ],
+    "tv": [
+      {
+        "src": "tv/1.jpeg",
+        "alt": "13Go — captura Android TV 1",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "tv/2.jpeg",
+        "alt": "13Go — captura Android TV 2",
+        "width": 1600,
+        "height": 900
+      }
+    ]
+  }
+}

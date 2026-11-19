@@ -1,0 +1,62 @@
+{
+  "id": "aventon",
+  "name": "Aventón",
+  "image": "aventon.webp",
+  "description": [
+    "Trabajé en el desarrollo y mantenimiento de las aplicaciones para clientes y conductores de Aventón en Android e iOS. Utilizando Kotlin y Swift, se implementaron funcionalidades como visualización de conductores cercanos, reserva y pago del servicio, seguimiento del viaje, comunicación mediante chat y valoración del servicio."
+  ],
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "technologies": [
+    "Realm",
+    "Firebase",
+    "Google Maps",
+    "MVVM",
+    "UIKit",
+    "Swift",
+    "Kotlin",
+    "UserNotifications"
+  ],
+  "stores": [
+    {
+      "type": "app-store",
+      "label": "App Store",
+      "url": "https://apps.apple.com/ni/app/avent%C3%B3n/id1213676815"
+    },
+    {
+      "type": "google-play",
+      "label": "Google Play · Desarrollador",
+      "url": "https://play.google.com/store/apps/developer?id=Avent%C3%B3n+Tech"
+    }
+  ],
+  "galleries": {
+    "mobile": [
+      {
+        "src": "mobile/1.jpg",
+        "alt": "Aventón — captura móvil 1",
+        "width": 230,
+        "height": 499
+      },
+      {
+        "src": "mobile/2.jpeg",
+        "alt": "Aventón — captura móvil 2",
+        "width": 230,
+        "height": 499
+      },
+      {
+        "src": "mobile/3.jpeg",
+        "alt": "Aventón — captura móvil 3",
+        "width": 230,
+        "height": 499
+      },
+      {
+        "src": "mobile/4.jpeg",
+        "alt": "Aventón — captura móvil 4",
+        "width": 230,
+        "height": 499
+      }
+    ]
+  }
+}

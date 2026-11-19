@@ -1,0 +1,305 @@
+{
+  "profile": {
+    "name": "Julio García Carballo",
+    "role": "Desarrollador de Aplicaciones Móviles",
+    "description": "Desarrollo aplicaciones nativas y multiplataforma para Android, iOS y TV, con experiencia en banca, fintech, salud, transporte, comercio electrónico y streaming.",
+    "image": "./assets/profile/julio-garcia.jpg",
+    "cv": "./assets/documents/julio-garcia-cv.pdf"
+  },
+  "platforms": [
+    {
+      "name": "Android",
+      "icon": {
+        "src": "https://api.iconify.design/simple-icons/android.svg?color=%233DDC84",
+        "icon": "simple-icons:android",
+        "kind": "brand",
+        "source": "https://icon-sets.iconify.design/simple-icons/android/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "name": "iOS",
+      "icon": {
+        "src": "https://api.iconify.design/simple-icons/apple.svg?color=%231B2333",
+        "icon": "simple-icons:apple",
+        "kind": "brand",
+        "source": "https://icon-sets.iconify.design/simple-icons/apple/",
+        "license": "CC0-1.0"
+      }
+    },
+    {
+      "name": "Android TV",
+      "icon": {
+        "src": "https://api.iconify.design/lucide/tv.svg?color=%234056C8",
+        "icon": "lucide:tv",
+        "kind": "conceptual",
+        "source": "https://icon-sets.iconify.design/lucide/tv/",
+        "license": "ISC",
+        "meaning": "Televisión"
+      }
+    },
+    {
+      "name": "tvOS",
+      "icon": {
+        "src": "https://api.iconify.design/lucide/tv-minimal.svg?color=%234056C8",
+        "icon": "lucide:tv-minimal",
+        "kind": "conceptual",
+        "source": "https://icon-sets.iconify.design/lucide/tv-minimal/",
+        "license": "ISC",
+        "meaning": "Pantalla de televisión"
+      }
+    }
+  ],
+  "toolGroups": [
+    {
+      "title": "UI & Mobile",
+      "items": [
+        "Jetpack Compose",
+        "SwiftUI",
+        "UIKit",
+        "Kotlin Multiplatform"
+      ]
+    },
+    {
+      "title": "Arquitectura",
+      "items": [
+        "MVVM",
+        "MVP",
+        "Dagger",
+        "Hilt"
+      ]
+    },
+    {
+      "title": "Datos & servicios",
+      "items": [
+        "Retrofit",
+        "Alamofire",
+        "Room",
+        "SQLite"
+      ]
+    },
+    {
+      "title": "Multimedia",
+      "items": [
+        "Media3 / ExoPlayer",
+        "AVPlayer",
+        "Twilio",
+        "Google Cast",
+        "IMA Ads"
+      ]
+    },
+    {
+      "title": "DevOps & Analytics",
+      "items": [
+        "Git",
+        "CI/CD",
+        "TestFlight",
+        "Firebase Analytics"
+      ]
+    },
+    {
+      "title": "Asistencia al desarrollo",
+      "kind": "ai",
+      "items": [
+        "Claude",
+        "Codex"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "MiCHV",
+      "platforms": "Android · iOS · Android TV · tvOS",
+      "description": "Desarrollo y mantenimiento de aplicaciones móviles y TV para Chilevisión, con reproducción de señales en vivo, contenido VOD, perfiles, búsqueda y navegación adaptada para TV.",
+      "technologies": [
+        "Kotlin",
+        "Swift",
+        "Compose",
+        "SwiftUI",
+        "Media3"
+      ],
+      "image": "./assets/projects/michv/michv.webp",
+      "monogram": "CHV",
+      "links": [],
+      "id": "michv"
+    },
+    {
+      "name": "Bi Banking",
+      "platforms": "Android",
+      "description": "Desarrollo y mantenimiento de una aplicación de banca empresarial, implementando funcionalidades relacionadas con cuentas, pagos, transferencias y operaciones financieras.",
+      "technologies": [
+        "Kotlin",
+        "Compose",
+        "Hilt",
+        "MVVM",
+        "Firebase"
+      ],
+      "image": "./assets/projects/bibanking/bibanking.webp",
+      "monogram": "Bi",
+      "links": [],
+      "id": "bi-banking"
+    },
+    {
+      "name": "13Go",
+      "platforms": "Android · iOS · Android TV",
+      "description": "Desarrollo de aplicaciones móviles y TV orientadas a streaming, señales en vivo y contenido a demanda para Canal 13 de Chile.",
+      "technologies": [
+        "Kotlin",
+        "Swift",
+        "Compose",
+        "SwiftUI",
+        "Media3"
+      ],
+      "image": "./assets/projects/13go/13go.webp",
+      "monogram": "13Go",
+      "links": [],
+      "id": "13go"
+    },
+    {
+      "name": "Aventón",
+      "platforms": "Android · iOS",
+      "description": "Aplicaciones para pasajeros y conductores con geolocalización, reservas, seguimiento del servicio, comunicación, pagos y valoración del viaje.",
+      "technologies": [
+        "Kotlin",
+        "Swift",
+        "Google Maps",
+        "Firebase",
+        "MVVM"
+      ],
+      "image": "./assets/projects/aventon/aventon.webp",
+      "monogram": "Av",
+      "links": [],
+      "id": "aventon"
+    },
+    {
+      "name": "Vive Health",
+      "platforms": "Android · iOS",
+      "description": "Aplicaciones para pacientes y profesionales de la salud con búsqueda de especialistas, reserva de consultas, videollamadas y gestión de teleconsultas.",
+      "technologies": [
+        "Kotlin",
+        "Swift",
+        "Twilio",
+        "Firebase",
+        "Hilt"
+      ],
+      "image": "./assets/projects/vivehealth/vive.webp",
+      "monogram": "VH",
+      "links": [],
+      "id": "vive-health"
+    }
+  ],
+  "education": [
+    {
+      "title": "Ingeniería en Computación",
+      "institution": "Universidad Nacional de Ingeniería",
+      "period": "2008–2014",
+      "icon": "education"
+    },
+    {
+      "title": "Formación Scrum",
+      "institution": "Scrum Developer y Scrum Foundation Professional",
+      "period": "2018–2019",
+      "icon": "certificate"
+    }
+  ],
+  "languages": [
+    "Español · Nativo",
+    "Inglés · Técnico"
+  ],
+  "technologyIcons": {
+    "Kotlin": {
+      "src": "https://api.iconify.design/simple-icons/kotlin.svg?color=%237F52FF",
+      "icon": "simple-icons:kotlin",
+      "kind": "brand",
+      "source": "https://icon-sets.iconify.design/simple-icons/kotlin/",
+      "license": "CC0-1.0"
+    },
+    "Swift": {
+      "src": "https://api.iconify.design/simple-icons/swift.svg?color=%23F05138",
+      "icon": "simple-icons:swift",
+      "kind": "brand",
+      "source": "https://icon-sets.iconify.design/simple-icons/swift/",
+      "license": "CC0-1.0"
+    },
+    "Compose": {
+      "src": "https://api.iconify.design/simple-icons/jetpackcompose.svg?color=%234285F4",
+      "icon": "simple-icons:jetpackcompose",
+      "kind": "brand",
+      "source": "https://icon-sets.iconify.design/simple-icons/jetpackcompose/",
+      "license": "CC0-1.0"
+    },
+    "SwiftUI": {
+      "src": "https://api.iconify.design/lucide/layout-grid.svg?color=%234056C8",
+      "icon": "lucide:layout-grid",
+      "kind": "conceptual",
+      "source": "https://icon-sets.iconify.design/lucide/layout-grid/",
+      "license": "ISC",
+      "meaning": "Interfaces"
+    },
+    "Media3": {
+      "src": "https://api.iconify.design/lucide/film.svg?color=%234056C8",
+      "icon": "lucide:film",
+      "kind": "conceptual",
+      "source": "https://icon-sets.iconify.design/lucide/film/",
+      "license": "ISC",
+      "meaning": "Reproducción multimedia"
+    },
+    "Hilt": {
+      "src": "https://api.iconify.design/lucide/git-fork.svg?color=%234056C8",
+      "icon": "lucide:git-fork",
+      "kind": "conceptual",
+      "source": "https://icon-sets.iconify.design/lucide/git-fork/",
+      "license": "ISC",
+      "meaning": "Dependencias"
+    },
+    "MVVM": {
+      "src": "https://api.iconify.design/lucide/workflow.svg?color=%234056C8",
+      "icon": "lucide:workflow",
+      "kind": "conceptual",
+      "source": "https://icon-sets.iconify.design/lucide/workflow/",
+      "license": "ISC",
+      "meaning": "Arquitectura"
+    },
+    "Firebase": {
+      "src": "https://api.iconify.design/simple-icons/firebase.svg?color=%23DD2C00",
+      "icon": "simple-icons:firebase",
+      "kind": "brand",
+      "source": "https://icon-sets.iconify.design/simple-icons/firebase/",
+      "license": "CC0-1.0"
+    },
+    "Google Maps": {
+      "src": "https://api.iconify.design/simple-icons/googlemaps.svg?color=%234285F4",
+      "icon": "simple-icons:googlemaps",
+      "kind": "brand",
+      "source": "https://icon-sets.iconify.design/simple-icons/googlemaps/",
+      "license": "CC0-1.0"
+    },
+    "Twilio": {
+      "src": "https://api.iconify.design/lucide/messages-square.svg?color=%234056C8",
+      "icon": "lucide:messages-square",
+      "kind": "conceptual",
+      "source": "https://icon-sets.iconify.design/lucide/messages-square/",
+      "license": "ISC",
+      "meaning": "Comunicación en tiempo real"
+    },
+    "AVPlayer": {
+      "src": "https://api.iconify.design/lucide/video.svg?color=%234056C8",
+      "icon": "lucide:video",
+      "kind": "conceptual",
+      "source": "https://icon-sets.iconify.design/lucide/video/",
+      "license": "ISC",
+      "meaning": "Reproducción de video"
+    }
+  },
+  "multiplatform": {
+    "name": "Kotlin Multiplatform",
+    "icon": {
+      "src": "https://api.iconify.design/lucide/layers.svg?color=%234056C8",
+      "icon": "lucide:layers",
+      "kind": "conceptual",
+      "meaning": "Multiplataforma",
+      "source": "https://lucide.dev/icons/layers",
+      "license": "ISC"
+    }
+  }
+}
